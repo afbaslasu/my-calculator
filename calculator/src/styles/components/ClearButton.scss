@@ -1,0 +1,13 @@
+.clear-btn {
+  background-color: #ac3939;
+  border: none;
+  color: white;
+  font-family: Share Tech Mono, monospace;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer; 
+
+  &:hover {
+    background-color: #d9534f;
+  }
+}

@@ -1,0 +1,17 @@
+.number-btn {
+  background-color: #4d4d4d;
+  border: none;
+  color: white;
+  font-family: Share Tech Mono, monospace;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer; 
+
+  &:hover {
+    background-color: #666; 
+  }
+}
+
+.jumbo {
+  grid-column: span 2; // Span two columns
+}

@@ -1,0 +1,13 @@
+.calculator {
+  border: 2px solid #47476b;
+  background-color: black;
+  width: 320px; 
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); // 4 equal columns
+  grid-auto-rows: 65px;                // Fixed row height
+  gap: 5px;                            // Spacing between buttons
+  padding: 5px;                         // Padding inside the calculator
+}

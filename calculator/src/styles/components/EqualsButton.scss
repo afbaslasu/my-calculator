@@ -1,0 +1,14 @@
+.equals-btn {
+  background-color: #004466; 
+  border: none;
+  color: white;
+  font-family: Share Tech Mono, monospace;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  grid-row: span 1;   // Span two rows
+
+  &:hover {
+    background-color: #00568c;
+  }
+}

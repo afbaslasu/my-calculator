@@ -1,0 +1,22 @@
+.display {
+  background-color: #333; 
+  border: 1px solid #000; 
+  padding: 10px;
+  text-align: right; 
+  margin-bottom: 5px; // Spacing below the display
+}
+
+.formulaScreen {
+  font-family: digital; 
+  font-size: 16px;
+  color: orange;
+  min-height: 20px; 
+  line-height: 1; // Prevent extra spacing
+}
+
+.outputScreen {
+  font-family: digital; 
+  font-size: 24px; 
+  color: white;
+  line-height: 1; 
+}
